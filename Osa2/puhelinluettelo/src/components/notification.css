@@ -1,0 +1,30 @@
+.message {
+    color: green;
+    background: lightgrey;
+   
+    border-style: solid;
+    border-radius: 2px;
+    width: 300px;
+    
+ 
+}
+.delete {
+    color: green;
+    background: lightgrey;
+   
+    border-style: solid;
+    border-radius: 2px;
+    width: 300px;
+    
+ 
+}
+.error {
+    color: red;
+    background: lightgrey;
+   
+    border-style: solid;
+    border-radius: 2px;
+    width: 300px;
+    
+ 
+}
