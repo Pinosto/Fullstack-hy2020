@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3RpIHRlbGxlcnZvIiwiaWQiOiI1ZmZjMmQwZmM1MWM4YjMxZjQ2MjhlMmIiLCJpYXQiOjE2MTAzNjIxMzR9.tUZoazV3tQ8uXFaRqQX6CHH3lSUqe1uqRI5D8Admu6g
+
+{
+  "title": "testi51",
+  "author": "jahu",
+  "url": "www.fi",
+  "likes": "33"
+}
