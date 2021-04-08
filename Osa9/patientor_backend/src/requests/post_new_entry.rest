@@ -1,0 +1,11 @@
+POST http://localhost:3001/api/patients/d27736ec-f723-11e9-8f0b-362b9e155667/entries
+Content-Type: application/json
+
+{
+    "type":"Hospital",
+    "description": "testi syöte",
+    "date": "01-01-2001",
+    "specialist": "tohtori sykerö",
+    "diagnosisCodes": ["M51.2"],
+    "discharge": { "date": "2000-1-1", "criteria": "terve" }
+}
